@@ -1,0 +1,7291 @@
+{
+  "timestamp": "2025-05-28T10:21:51.776092",
+  "config": {
+    "model_paths": [
+      "efficientnet_b4_best_fold0.pth",
+      "efficientnet_b4_best_fold1.pth",
+      "efficientnet_b4_best_fold2.pth",
+      "efficientnet_b4_best_fold3.pth",
+      "efficientnet_b4_best_fold4.pth"
+    ],
+    "use_tta": true,
+    "use_ensemble": true,
+    "confidence_threshold": 0.5
+  },
+  "predictions": [
+    {
+      "image_path": "E:\\Test\\kanserli\\1.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9847190976142883,
+      "probabilities": [
+        0.9847190976142883,
+        0.015280986204743385
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1003.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9247251749038696,
+      "probabilities": [
+        0.9247251749038696,
+        0.07527482509613037
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1005.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7630431056022644,
+      "probabilities": [
+        0.7630431056022644,
+        0.2369568794965744
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1007.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5751954317092896,
+      "probabilities": [
+        0.5751954317092896,
+        0.42480453848838806
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1009.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6694701910018921,
+      "probabilities": [
+        0.6694701910018921,
+        0.3305297791957855
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1012.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5220656394958496,
+      "probabilities": [
+        0.5220656394958496,
+        0.4779343605041504
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1019.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.761868953704834,
+      "probabilities": [
+        0.761868953704834,
+        0.23813104629516602
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1022.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5065662264823914,
+      "probabilities": [
+        0.5065662264823914,
+        0.49343377351760864
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1026.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8326848149299622,
+      "probabilities": [
+        0.8326848149299622,
+        0.16731515526771545
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1027.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7927416563034058,
+      "probabilities": [
+        0.7927416563034058,
+        0.20725837349891663
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1037.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7555471658706665,
+      "probabilities": [
+        0.7555471658706665,
+        0.24445290863513947
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1038.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8267690539360046,
+      "probabilities": [
+        0.8267690539360046,
+        0.17323091626167297
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1046.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.931391716003418,
+      "probabilities": [
+        0.931391716003418,
+        0.06860830634832382
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1049.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5437537431716919,
+      "probabilities": [
+        0.45624619722366333,
+        0.5437537431716919
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1056.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5634707808494568,
+      "probabilities": [
+        0.4365292191505432,
+        0.5634707808494568
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1058.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7770296931266785,
+      "probabilities": [
+        0.22297024726867676,
+        0.7770296931266785
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1065.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5413190126419067,
+      "probabilities": [
+        0.5413190126419067,
+        0.4586809575557709
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1074.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6207003593444824,
+      "probabilities": [
+        0.6207003593444824,
+        0.3792995810508728
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1080.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.860510528087616,
+      "probabilities": [
+        0.860510528087616,
+        0.13948944211006165
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1083.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7979168891906738,
+      "probabilities": [
+        0.20208308100700378,
+        0.7979168891906738
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1089.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6541619300842285,
+      "probabilities": [
+        0.6541619300842285,
+        0.34583809971809387
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1091.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5566922426223755,
+      "probabilities": [
+        0.5566922426223755,
+        0.4433077871799469
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1094.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5935899019241333,
+      "probabilities": [
+        0.4064101278781891,
+        0.5935899019241333
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\110.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8917993307113647,
+      "probabilities": [
+        0.8917993307113647,
+        0.10820062458515167
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1112.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8997921943664551,
+      "probabilities": [
+        0.8997921943664551,
+        0.10020776838064194
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1113.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7236143946647644,
+      "probabilities": [
+        0.7236143946647644,
+        0.2763856053352356
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1119.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9370525479316711,
+      "probabilities": [
+        0.9370525479316711,
+        0.06294749677181244
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1120.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9736869931221008,
+      "probabilities": [
+        0.9736869931221008,
+        0.02631315030157566
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1128.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.56708163022995,
+      "probabilities": [
+        0.56708163022995,
+        0.43291836977005005
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1135.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8861209750175476,
+      "probabilities": [
+        0.8861209750175476,
+        0.11387898027896881
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1141.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8460832834243774,
+      "probabilities": [
+        0.8460832834243774,
+        0.15391676127910614
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1150.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6939153671264648,
+      "probabilities": [
+        0.6939153671264648,
+        0.30608460307121277
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1151.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7227920293807983,
+      "probabilities": [
+        0.7227920293807983,
+        0.27720803022384644
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1155.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5863334536552429,
+      "probabilities": [
+        0.5863334536552429,
+        0.4136665463447571
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1156.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5529829263687134,
+      "probabilities": [
+        0.44701704382896423,
+        0.5529829263687134
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1160.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7098682522773743,
+      "probabilities": [
+        0.7098682522773743,
+        0.2901318073272705
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1164.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9636972546577454,
+      "probabilities": [
+        0.9636972546577454,
+        0.036302756518125534
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1166.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6742138862609863,
+      "probabilities": [
+        0.6742138862609863,
+        0.32578611373901367
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1170.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8860470056533813,
+      "probabilities": [
+        0.11395301669836044,
+        0.8860470056533813
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1173.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9076298475265503,
+      "probabilities": [
+        0.9076298475265503,
+        0.09237007796764374
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1176.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6450126767158508,
+      "probabilities": [
+        0.35498732328414917,
+        0.6450126767158508
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1185.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9082743525505066,
+      "probabilities": [
+        0.9082743525505066,
+        0.09172570705413818
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1186.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5419233441352844,
+      "probabilities": [
+        0.45807671546936035,
+        0.5419233441352844
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1187.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7988525629043579,
+      "probabilities": [
+        0.7988525629043579,
+        0.20114746689796448
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1189.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8932050466537476,
+      "probabilities": [
+        0.8932050466537476,
+        0.10679491609334946
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1194.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.929389476776123,
+      "probabilities": [
+        0.929389476776123,
+        0.07061052322387695
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1197.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8527361750602722,
+      "probabilities": [
+        0.8527361750602722,
+        0.14726385474205017
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1198.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8599704504013062,
+      "probabilities": [
+        0.8599704504013062,
+        0.14002951979637146
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1211.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7516010999679565,
+      "probabilities": [
+        0.24839892983436584,
+        0.7516010999679565
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1215.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8565576672554016,
+      "probabilities": [
+        0.14344239234924316,
+        0.8565576672554016
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1216.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8777893781661987,
+      "probabilities": [
+        0.8777893781661987,
+        0.1222105473279953
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1218.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9366470575332642,
+      "probabilities": [
+        0.9366470575332642,
+        0.06335287541151047
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1220.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.535463809967041,
+      "probabilities": [
+        0.535463809967041,
+        0.464536190032959
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1221.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7261036038398743,
+      "probabilities": [
+        0.7261036038398743,
+        0.27389639616012573
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1227.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8525851964950562,
+      "probabilities": [
+        0.8525851964950562,
+        0.14741477370262146
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1228.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5649486780166626,
+      "probabilities": [
+        0.4350513517856598,
+        0.5649486780166626
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1229.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.804438591003418,
+      "probabilities": [
+        0.19556143879890442,
+        0.804438591003418
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1234.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8244863748550415,
+      "probabilities": [
+        0.8244863748550415,
+        0.1755136400461197
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1238.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7012255787849426,
+      "probabilities": [
+        0.7012255787849426,
+        0.2987744212150574
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1242.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8356505632400513,
+      "probabilities": [
+        0.8356505632400513,
+        0.16434946656227112
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1251.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.952907919883728,
+      "probabilities": [
+        0.952907919883728,
+        0.047092027962207794
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1254.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6763753294944763,
+      "probabilities": [
+        0.6763753294944763,
+        0.3236246407032013
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1256.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7843729257583618,
+      "probabilities": [
+        0.7843729257583618,
+        0.21562707424163818
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1262.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8872650265693665,
+      "probabilities": [
+        0.8872650265693665,
+        0.11273491382598877
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1266.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6420108079910278,
+      "probabilities": [
+        0.6420108079910278,
+        0.3579891622066498
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1267.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9620190858840942,
+      "probabilities": [
+        0.9620190858840942,
+        0.03798097372055054
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1268.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7465485334396362,
+      "probabilities": [
+        0.7465485334396362,
+        0.25345149636268616
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1280.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5286127328872681,
+      "probabilities": [
+        0.47138723731040955,
+        0.5286127328872681
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1286.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5076450109481812,
+      "probabilities": [
+        0.5076450109481812,
+        0.49235495924949646
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1289.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7793986201286316,
+      "probabilities": [
+        0.7793986201286316,
+        0.2206013947725296
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\129.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9627100825309753,
+      "probabilities": [
+        0.9627100825309753,
+        0.03728986531496048
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1292.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.965237021446228,
+      "probabilities": [
+        0.965237021446228,
+        0.03476298600435257
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1295.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8948169946670532,
+      "probabilities": [
+        0.10518304258584976,
+        0.8948169946670532
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1297.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6114863157272339,
+      "probabilities": [
+        0.6114863157272339,
+        0.38851362466812134
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\13.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9429584741592407,
+      "probabilities": [
+        0.9429584741592407,
+        0.05704151466488838
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1300.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9236852526664734,
+      "probabilities": [
+        0.9236852526664734,
+        0.07631467282772064
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1310.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7981276512145996,
+      "probabilities": [
+        0.20187239348888397,
+        0.7981276512145996
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1320.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7587229013442993,
+      "probabilities": [
+        0.24127709865570068,
+        0.7587229013442993
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1322.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8732056617736816,
+      "probabilities": [
+        0.8732056617736816,
+        0.12679435312747955
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1330.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6830117702484131,
+      "probabilities": [
+        0.6830117702484131,
+        0.31698817014694214
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1333.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8800188302993774,
+      "probabilities": [
+        0.8800188302993774,
+        0.11998121440410614
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1336.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8628402948379517,
+      "probabilities": [
+        0.8628402948379517,
+        0.13715966045856476
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1339.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9629808664321899,
+      "probabilities": [
+        0.9629808664321899,
+        0.03701915219426155
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1342.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5790296196937561,
+      "probabilities": [
+        0.5790296196937561,
+        0.42097043991088867
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1347.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6371098756790161,
+      "probabilities": [
+        0.6371098756790161,
+        0.3628901541233063
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1354.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9392310976982117,
+      "probabilities": [
+        0.9392310976982117,
+        0.06076894327998161
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1355.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7018911838531494,
+      "probabilities": [
+        0.7018911838531494,
+        0.2981087863445282
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1358.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6176698207855225,
+      "probabilities": [
+        0.6176698207855225,
+        0.3823302090167999
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1359.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.955150306224823,
+      "probabilities": [
+        0.955150306224823,
+        0.044849686324596405
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1364.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8259292840957642,
+      "probabilities": [
+        0.8259292840957642,
+        0.17407074570655823
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1366.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9098121523857117,
+      "probabilities": [
+        0.9098121523857117,
+        0.09018786996603012
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1370.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9471103549003601,
+      "probabilities": [
+        0.9471103549003601,
+        0.05288968235254288
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1374.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8823928833007812,
+      "probabilities": [
+        0.11760711669921875,
+        0.8823928833007812
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1378.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9523399472236633,
+      "probabilities": [
+        0.9523399472236633,
+        0.047660067677497864
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1379.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9438533782958984,
+      "probabilities": [
+        0.9438533782958984,
+        0.05614663287997246
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1380.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7992993593215942,
+      "probabilities": [
+        0.20070067048072815,
+        0.7992993593215942
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1382.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6955698132514954,
+      "probabilities": [
+        0.6955698132514954,
+        0.30443018674850464
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1383.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7823262214660645,
+      "probabilities": [
+        0.7823262214660645,
+        0.21767385303974152
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\139.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9622230529785156,
+      "probabilities": [
+        0.9622230529785156,
+        0.03777702525258064
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1395.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9453175663948059,
+      "probabilities": [
+        0.9453175663948059,
+        0.0546824149787426
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1401.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7760894298553467,
+      "probabilities": [
+        0.7760894298553467,
+        0.22391057014465332
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1402.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8034048080444336,
+      "probabilities": [
+        0.8034048080444336,
+        0.19659516215324402
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1417.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9448550939559937,
+      "probabilities": [
+        0.9448550939559937,
+        0.05514482781291008
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1422.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8773723840713501,
+      "probabilities": [
+        0.8773723840713501,
+        0.12262765318155289
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1425.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9487342834472656,
+      "probabilities": [
+        0.9487342834472656,
+        0.05126578360795975
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1427.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7038282155990601,
+      "probabilities": [
+        0.7038282155990601,
+        0.2961718440055847
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1430.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.935905933380127,
+      "probabilities": [
+        0.935905933380127,
+        0.06409411132335663
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1436.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6337571144104004,
+      "probabilities": [
+        0.6337571144104004,
+        0.366242915391922
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1438.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.718354344367981,
+      "probabilities": [
+        0.28164562582969666,
+        0.718354344367981
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1443.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8333621025085449,
+      "probabilities": [
+        0.8333621025085449,
+        0.16663791239261627
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1447.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7229528427124023,
+      "probabilities": [
+        0.7229528427124023,
+        0.27704712748527527
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1451.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8015424609184265,
+      "probabilities": [
+        0.8015424609184265,
+        0.1984575390815735
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1461.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5098714828491211,
+      "probabilities": [
+        0.5098714828491211,
+        0.4901285171508789
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1464.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9513705968856812,
+      "probabilities": [
+        0.9513705968856812,
+        0.04862942174077034
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1484.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6519845724105835,
+      "probabilities": [
+        0.6519845724105835,
+        0.34801536798477173
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1489.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7327454686164856,
+      "probabilities": [
+        0.2672545611858368,
+        0.7327454686164856
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1495.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9444657564163208,
+      "probabilities": [
+        0.9444657564163208,
+        0.0555342435836792
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\1499.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9311851263046265,
+      "probabilities": [
+        0.9311851263046265,
+        0.06881488114595413
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\156.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9264459609985352,
+      "probabilities": [
+        0.9264459609985352,
+        0.07355399429798126
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\161.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9556131362915039,
+      "probabilities": [
+        0.9556131362915039,
+        0.04438682645559311
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\17.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9892322421073914,
+      "probabilities": [
+        0.9892322421073914,
+        0.010767732746899128
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\173.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9694185256958008,
+      "probabilities": [
+        0.9694185256958008,
+        0.030581539496779442
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\179.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.883820652961731,
+      "probabilities": [
+        0.883820652961731,
+        0.11617939174175262
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\182.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9742153286933899,
+      "probabilities": [
+        0.9742153286933899,
+        0.025784652680158615
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\184.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9871068000793457,
+      "probabilities": [
+        0.9871068000793457,
+        0.012893232516944408
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\185.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9834697842597961,
+      "probabilities": [
+        0.9834697842597961,
+        0.016530176624655724
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\186.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8356221318244934,
+      "probabilities": [
+        0.8356221318244934,
+        0.16437789797782898
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\190.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9784880876541138,
+      "probabilities": [
+        0.9784880876541138,
+        0.021511945873498917
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\193.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9839578866958618,
+      "probabilities": [
+        0.9839578866958618,
+        0.016042228788137436
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\195.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.987817645072937,
+      "probabilities": [
+        0.987817645072937,
+        0.012182285077869892
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\196.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9487206339836121,
+      "probabilities": [
+        0.9487206339836121,
+        0.05127939581871033
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\200.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9583151936531067,
+      "probabilities": [
+        0.9583151936531067,
+        0.04168485477566719
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\208.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.795411229133606,
+      "probabilities": [
+        0.795411229133606,
+        0.2045888453722
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\231.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9266303181648254,
+      "probabilities": [
+        0.9266303181648254,
+        0.07336974889039993
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\232.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9906824827194214,
+      "probabilities": [
+        0.9906824827194214,
+        0.009317510761320591
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\237.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8477432131767273,
+      "probabilities": [
+        0.8477432131767273,
+        0.15225686132907867
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\238.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8713099360466003,
+      "probabilities": [
+        0.8713099360466003,
+        0.12869003415107727
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\24.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9463558197021484,
+      "probabilities": [
+        0.9463558197021484,
+        0.05364413931965828
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\247.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9446592330932617,
+      "probabilities": [
+        0.9446592330932617,
+        0.05534074455499649
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\256.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9156452417373657,
+      "probabilities": [
+        0.9156452417373657,
+        0.08435489237308502
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\257.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9560168981552124,
+      "probabilities": [
+        0.9560168981552124,
+        0.043983109295368195
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\258.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9792577624320984,
+      "probabilities": [
+        0.9792577624320984,
+        0.02074228785932064
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\260.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9601117372512817,
+      "probabilities": [
+        0.9601117372512817,
+        0.03988825902342796
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\275.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9169160723686218,
+      "probabilities": [
+        0.9169160723686218,
+        0.08308388292789459
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\276.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9606807827949524,
+      "probabilities": [
+        0.9606807827949524,
+        0.03931917995214462
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\3.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9762517809867859,
+      "probabilities": [
+        0.9762517809867859,
+        0.023748209699988365
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\303.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9459221959114075,
+      "probabilities": [
+        0.9459221959114075,
+        0.05407782644033432
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\307.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9841217994689941,
+      "probabilities": [
+        0.9841217994689941,
+        0.015878234058618546
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\310.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9757887125015259,
+      "probabilities": [
+        0.9757887125015259,
+        0.02421128749847412
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\317.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.968170166015625,
+      "probabilities": [
+        0.968170166015625,
+        0.0318298265337944
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\318.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9683555364608765,
+      "probabilities": [
+        0.9683555364608765,
+        0.03164442628622055
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\322.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9811924695968628,
+      "probabilities": [
+        0.9811924695968628,
+        0.018807487562298775
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\33.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9755319356918335,
+      "probabilities": [
+        0.9755319356918335,
+        0.024468109011650085
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\338.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9749536514282227,
+      "probabilities": [
+        0.9749536514282227,
+        0.025046318769454956
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\342.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.948338508605957,
+      "probabilities": [
+        0.948338508605957,
+        0.05166143923997879
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\343.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9053274989128113,
+      "probabilities": [
+        0.9053274989128113,
+        0.0946725457906723
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\348.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9808322787284851,
+      "probabilities": [
+        0.9808322787284851,
+        0.019167739897966385
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\355.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8532869219779968,
+      "probabilities": [
+        0.8532869219779968,
+        0.1467130184173584
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\356.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9308720827102661,
+      "probabilities": [
+        0.9308720827102661,
+        0.06912796199321747
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\360.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9793382883071899,
+      "probabilities": [
+        0.9793382883071899,
+        0.0206617284566164
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\364.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7598549127578735,
+      "probabilities": [
+        0.7598549127578735,
+        0.24014508724212646
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\375.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9491273164749146,
+      "probabilities": [
+        0.9491273164749146,
+        0.050872672349214554
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\381.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.973975658416748,
+      "probabilities": [
+        0.973975658416748,
+        0.026024337857961655
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\382.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9551035761833191,
+      "probabilities": [
+        0.9551035761833191,
+        0.044896431267261505
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\384.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9197326898574829,
+      "probabilities": [
+        0.9197326898574829,
+        0.0802672877907753
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\389.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9686468243598938,
+      "probabilities": [
+        0.9686468243598938,
+        0.0313531756401062
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\39.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.983393669128418,
+      "probabilities": [
+        0.983393669128418,
+        0.01660637930035591
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\390.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9791929125785828,
+      "probabilities": [
+        0.9791929125785828,
+        0.020807059481739998
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\394.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9631631970405579,
+      "probabilities": [
+        0.9631631970405579,
+        0.03683684766292572
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\399.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8946853876113892,
+      "probabilities": [
+        0.8946853876113892,
+        0.10531459003686905
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\4.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9808419942855835,
+      "probabilities": [
+        0.9808419942855835,
+        0.019157979637384415
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\402.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9237105250358582,
+      "probabilities": [
+        0.9237105250358582,
+        0.07628950476646423
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\405.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9703409075737,
+      "probabilities": [
+        0.9703409075737,
+        0.029659178107976913
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\407.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8934623599052429,
+      "probabilities": [
+        0.8934623599052429,
+        0.1065375953912735
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\409.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9576903581619263,
+      "probabilities": [
+        0.9576903581619263,
+        0.04230966791510582
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\419.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9229587316513062,
+      "probabilities": [
+        0.9229587316513062,
+        0.07704121619462967
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\421.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9449061155319214,
+      "probabilities": [
+        0.9449061155319214,
+        0.05509388446807861
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\424.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9619580507278442,
+      "probabilities": [
+        0.9619580507278442,
+        0.03804197534918785
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\426.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9616285562515259,
+      "probabilities": [
+        0.9616285562515259,
+        0.03837147355079651
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\428.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9737170338630676,
+      "probabilities": [
+        0.9737170338630676,
+        0.026283005252480507
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\430.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9277275204658508,
+      "probabilities": [
+        0.9277275204658508,
+        0.07227246463298798
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\436.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9804248809814453,
+      "probabilities": [
+        0.9804248809814453,
+        0.019575076177716255
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\437.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9458629488945007,
+      "probabilities": [
+        0.9458629488945007,
+        0.05413699150085449
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\44.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9320691823959351,
+      "probabilities": [
+        0.9320691823959351,
+        0.06793077290058136
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\445.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.980568528175354,
+      "probabilities": [
+        0.980568528175354,
+        0.01943153142929077
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\450.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9469966888427734,
+      "probabilities": [
+        0.9469966888427734,
+        0.05300332233309746
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\459.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9771631360054016,
+      "probabilities": [
+        0.9771631360054016,
+        0.022836927324533463
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\46.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9564476013183594,
+      "probabilities": [
+        0.9564476013183594,
+        0.043552421033382416
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\463.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9852372407913208,
+      "probabilities": [
+        0.9852372407913208,
+        0.014762789011001587
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\474.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9897799491882324,
+      "probabilities": [
+        0.9897799491882324,
+        0.01022005919367075
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\479.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9103231430053711,
+      "probabilities": [
+        0.9103231430053711,
+        0.08967696130275726
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\483.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9813444018363953,
+      "probabilities": [
+        0.9813444018363953,
+        0.01865556463599205
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\501.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9881817102432251,
+      "probabilities": [
+        0.9881817102432251,
+        0.011818354949355125
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\504.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9822421073913574,
+      "probabilities": [
+        0.9822421073913574,
+        0.017757896333932877
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\507.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9897926449775696,
+      "probabilities": [
+        0.9897926449775696,
+        0.010207283310592175
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\508.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9754711389541626,
+      "probabilities": [
+        0.9754711389541626,
+        0.02452894300222397
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\511.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9660125970840454,
+      "probabilities": [
+        0.9660125970840454,
+        0.03398733586072922
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\519.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9738969802856445,
+      "probabilities": [
+        0.9738969802856445,
+        0.026102954521775246
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\52.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9485807418823242,
+      "probabilities": [
+        0.9485807418823242,
+        0.05141928046941757
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\528.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9876343011856079,
+      "probabilities": [
+        0.9876343011856079,
+        0.012365737929940224
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\536.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9938066601753235,
+      "probabilities": [
+        0.9938066601753235,
+        0.006193318869918585
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\54.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9848472476005554,
+      "probabilities": [
+        0.9848472476005554,
+        0.015152755193412304
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\546.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9870856404304504,
+      "probabilities": [
+        0.9870856404304504,
+        0.01291443221271038
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\554.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9880086779594421,
+      "probabilities": [
+        0.9880086779594421,
+        0.01199125312268734
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\556.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9829849004745483,
+      "probabilities": [
+        0.9829849004745483,
+        0.01701502501964569
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\562.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9816226959228516,
+      "probabilities": [
+        0.9816226959228516,
+        0.018377231433987617
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\568.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9815419912338257,
+      "probabilities": [
+        0.9815419912338257,
+        0.018458010628819466
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\57.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9761837124824524,
+      "probabilities": [
+        0.9761837124824524,
+        0.023816343396902084
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\570.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9801908731460571,
+      "probabilities": [
+        0.9801908731460571,
+        0.019809165969491005
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\572.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9577411413192749,
+      "probabilities": [
+        0.9577411413192749,
+        0.042258769273757935
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\573.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9702595472335815,
+      "probabilities": [
+        0.9702595472335815,
+        0.02974044904112816
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\575.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9775103330612183,
+      "probabilities": [
+        0.9775103330612183,
+        0.022489627823233604
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\58.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9964284896850586,
+      "probabilities": [
+        0.9964284896850586,
+        0.0035715284757316113
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\590.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9826037287712097,
+      "probabilities": [
+        0.9826037287712097,
+        0.017396267503499985
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\592.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9824950098991394,
+      "probabilities": [
+        0.9824950098991394,
+        0.017504984512925148
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\593.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9433513879776001,
+      "probabilities": [
+        0.9433513879776001,
+        0.056648679077625275
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\596.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9218193292617798,
+      "probabilities": [
+        0.9218193292617798,
+        0.07818075269460678
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\602.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9711204767227173,
+      "probabilities": [
+        0.9711204767227173,
+        0.028879502788186073
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\603.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9767534136772156,
+      "probabilities": [
+        0.9767534136772156,
+        0.02324661985039711
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\614.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9501539468765259,
+      "probabilities": [
+        0.9501539468765259,
+        0.04984603077173233
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\615.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9878109097480774,
+      "probabilities": [
+        0.9878109097480774,
+        0.01218907255679369
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\619.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9839906692504883,
+      "probabilities": [
+        0.9839906692504883,
+        0.016009360551834106
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\62.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.971555233001709,
+      "probabilities": [
+        0.971555233001709,
+        0.028444770723581314
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\628.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9739633798599243,
+      "probabilities": [
+        0.9739633798599243,
+        0.026036644354462624
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\638.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9523895382881165,
+      "probabilities": [
+        0.9523895382881165,
+        0.04761054366827011
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\641.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9670387506484985,
+      "probabilities": [
+        0.9670387506484985,
+        0.03296123072504997
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\643.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9729568362236023,
+      "probabilities": [
+        0.9729568362236023,
+        0.027043119072914124
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\65.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9796817898750305,
+      "probabilities": [
+        0.9796817898750305,
+        0.02031823992729187
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\653.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9687806963920593,
+      "probabilities": [
+        0.9687806963920593,
+        0.03121933899819851
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\658.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9872865676879883,
+      "probabilities": [
+        0.9872865676879883,
+        0.012713459320366383
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\66.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.970502495765686,
+      "probabilities": [
+        0.970502495765686,
+        0.02949749305844307
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\660.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6087967157363892,
+      "probabilities": [
+        0.39120325446128845,
+        0.6087967157363892
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\667.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9745375514030457,
+      "probabilities": [
+        0.9745375514030457,
+        0.0254624392837286
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\670.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9491666555404663,
+      "probabilities": [
+        0.9491666555404663,
+        0.050833284854888916
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\674.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9605701565742493,
+      "probabilities": [
+        0.9605701565742493,
+        0.039429862052202225
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\679.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9747899174690247,
+      "probabilities": [
+        0.9747899174690247,
+        0.02521008811891079
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\68.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9758027195930481,
+      "probabilities": [
+        0.9758027195930481,
+        0.024197284132242203
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\686.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9557239413261414,
+      "probabilities": [
+        0.9557239413261414,
+        0.044276025146245956
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\694.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9876788258552551,
+      "probabilities": [
+        0.9876788258552551,
+        0.012321250513195992
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\696.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9279670715332031,
+      "probabilities": [
+        0.9279670715332031,
+        0.07203289121389389
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\706.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9631916880607605,
+      "probabilities": [
+        0.9631916880607605,
+        0.0368083119392395
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\709.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9761228561401367,
+      "probabilities": [
+        0.9761228561401367,
+        0.0238770991563797
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\713.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9790728688240051,
+      "probabilities": [
+        0.9790728688240051,
+        0.02092713676393032
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\73.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9715800285339355,
+      "probabilities": [
+        0.9715800285339355,
+        0.0284199807792902
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\735.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.973120391368866,
+      "probabilities": [
+        0.973120391368866,
+        0.02687961235642433
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\739.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9812434911727905,
+      "probabilities": [
+        0.9812434911727905,
+        0.01875654235482216
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\74.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9609653353691101,
+      "probabilities": [
+        0.9609653353691101,
+        0.03903467580676079
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\744.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9574934244155884,
+      "probabilities": [
+        0.9574934244155884,
+        0.042506586760282516
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\747.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.985883355140686,
+      "probabilities": [
+        0.985883355140686,
+        0.01411661971360445
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\749.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9538992047309875,
+      "probabilities": [
+        0.9538992047309875,
+        0.046100787818431854
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\757.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9882687330245972,
+      "probabilities": [
+        0.9882687330245972,
+        0.011731204576790333
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\759.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8412949442863464,
+      "probabilities": [
+        0.8412949442863464,
+        0.15870504081249237
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\762.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9674761891365051,
+      "probabilities": [
+        0.9674761891365051,
+        0.03252385929226875
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\763.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9829258918762207,
+      "probabilities": [
+        0.9829258918762207,
+        0.017074108123779297
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\771.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.942158043384552,
+      "probabilities": [
+        0.942158043384552,
+        0.05784189701080322
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\773.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9930755496025085,
+      "probabilities": [
+        0.9930755496025085,
+        0.006924372166395187
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\778.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.94959956407547,
+      "probabilities": [
+        0.94959956407547,
+        0.050400473177433014
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\792.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9672161340713501,
+      "probabilities": [
+        0.9672161340713501,
+        0.032783906906843185
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\794.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9625104069709778,
+      "probabilities": [
+        0.9625104069709778,
+        0.03748961538076401
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\797.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9609560966491699,
+      "probabilities": [
+        0.9609560966491699,
+        0.03904387354850769
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\8.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9709421396255493,
+      "probabilities": [
+        0.9709421396255493,
+        0.029057864099740982
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\804.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9824075698852539,
+      "probabilities": [
+        0.9824075698852539,
+        0.01759249158203602
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\808.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9676935076713562,
+      "probabilities": [
+        0.9676935076713562,
+        0.032306425273418427
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\81.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9960781335830688,
+      "probabilities": [
+        0.9960781335830688,
+        0.003921923693269491
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\817.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8898129463195801,
+      "probabilities": [
+        0.8898129463195801,
+        0.11018705368041992
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\822.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.863783061504364,
+      "probabilities": [
+        0.863783061504364,
+        0.1362169086933136
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\826.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7769650220870972,
+      "probabilities": [
+        0.7769650220870972,
+        0.22303494811058044
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\832.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6098161935806274,
+      "probabilities": [
+        0.6098161935806274,
+        0.3901837468147278
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\836.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8681656718254089,
+      "probabilities": [
+        0.8681656718254089,
+        0.13183428347110748
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\838.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.835558295249939,
+      "probabilities": [
+        0.835558295249939,
+        0.16444163024425507
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\839.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7809919118881226,
+      "probabilities": [
+        0.7809919118881226,
+        0.21900808811187744
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\85.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9410587549209595,
+      "probabilities": [
+        0.9410587549209595,
+        0.05894124507904053
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\852.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5955132246017456,
+      "probabilities": [
+        0.5955132246017456,
+        0.404486745595932
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\859.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8160839080810547,
+      "probabilities": [
+        0.1839161366224289,
+        0.8160839080810547
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\864.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.732854962348938,
+      "probabilities": [
+        0.732854962348938,
+        0.26714497804641724
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\866.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5238534808158875,
+      "probabilities": [
+        0.5238534808158875,
+        0.47614654898643494
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\868.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5363295674324036,
+      "probabilities": [
+        0.46367043256759644,
+        0.5363295674324036
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\87.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9910157918930054,
+      "probabilities": [
+        0.9910157918930054,
+        0.00898418202996254
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\871.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9137828946113586,
+      "probabilities": [
+        0.9137828946113586,
+        0.08621717989444733
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\874.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7467343807220459,
+      "probabilities": [
+        0.7467343807220459,
+        0.2532656788825989
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\881.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.91047203540802,
+      "probabilities": [
+        0.91047203540802,
+        0.08952803909778595
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\887.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8441811800003052,
+      "probabilities": [
+        0.8441811800003052,
+        0.1558188647031784
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\893.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8351958990097046,
+      "probabilities": [
+        0.8351958990097046,
+        0.16480401158332825
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\894.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8665763735771179,
+      "probabilities": [
+        0.8665763735771179,
+        0.1334236115217209
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\905.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7146703004837036,
+      "probabilities": [
+        0.7146703004837036,
+        0.2853297293186188
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\91.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9899547696113586,
+      "probabilities": [
+        0.9899547696113586,
+        0.010045207105576992
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\92.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.989305317401886,
+      "probabilities": [
+        0.989305317401886,
+        0.010694704949855804
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\927.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9674494862556458,
+      "probabilities": [
+        0.9674494862556458,
+        0.03255056217312813
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\93.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8925472497940063,
+      "probabilities": [
+        0.8925472497940063,
+        0.10745272785425186
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\934.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.550474226474762,
+      "probabilities": [
+        0.44952577352523804,
+        0.550474226474762
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\937.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6294223070144653,
+      "probabilities": [
+        0.3705776631832123,
+        0.6294223070144653
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\940.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9164894819259644,
+      "probabilities": [
+        0.9164894819259644,
+        0.08351045846939087
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\947.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6587929725646973,
+      "probabilities": [
+        0.6587929725646973,
+        0.34120702743530273
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\948.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8640357851982117,
+      "probabilities": [
+        0.8640357851982117,
+        0.13596419990062714
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\949.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9779567718505859,
+      "probabilities": [
+        0.9779567718505859,
+        0.02204323746263981
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\953.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.556371808052063,
+      "probabilities": [
+        0.556371808052063,
+        0.4436282217502594
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\985.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9311531186103821,
+      "probabilities": [
+        0.9311531186103821,
+        0.06884688138961792
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\992.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9052979350090027,
+      "probabilities": [
+        0.9052979350090027,
+        0.09470207989215851
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\994.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9548392295837402,
+      "probabilities": [
+        0.9548392295837402,
+        0.04516075178980827
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kanserli\\995.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9415890574455261,
+      "probabilities": [
+        0.9415890574455261,
+        0.05841098353266716
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.538071870803833,
+      "probabilities": [
+        0.538071870803833,
+        0.4619280695915222
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\10.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7713879346847534,
+      "probabilities": [
+        0.22861213982105255,
+        0.7713879346847534
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1003.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9709333181381226,
+      "probabilities": [
+        0.02906673029065132,
+        0.9709333181381226
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1006.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.900669276714325,
+      "probabilities": [
+        0.09933073818683624,
+        0.900669276714325
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1013.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9837584495544434,
+      "probabilities": [
+        0.01624157652258873,
+        0.9837584495544434
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1018.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8224654197692871,
+      "probabilities": [
+        0.17753461003303528,
+        0.8224654197692871
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1019.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7884101271629333,
+      "probabilities": [
+        0.21158981323242188,
+        0.7884101271629333
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1023.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9426603317260742,
+      "probabilities": [
+        0.05733964592218399,
+        0.9426603317260742
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1025.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7455042600631714,
+      "probabilities": [
+        0.2544957399368286,
+        0.7455042600631714
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1029.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9764726758003235,
+      "probabilities": [
+        0.023527344688773155,
+        0.9764726758003235
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1033.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9517095685005188,
+      "probabilities": [
+        0.0482904426753521,
+        0.9517095685005188
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1034.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7676336169242859,
+      "probabilities": [
+        0.2323664128780365,
+        0.7676336169242859
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1042.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9962980151176453,
+      "probabilities": [
+        0.0037020049057900906,
+        0.9962980151176453
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1044.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9611929059028625,
+      "probabilities": [
+        0.03880712389945984,
+        0.9611929059028625
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\105.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7227951288223267,
+      "probabilities": [
+        0.7227951288223267,
+        0.27720481157302856
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1055.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.811080813407898,
+      "probabilities": [
+        0.18891914188861847,
+        0.811080813407898
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1061.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5257130265235901,
+      "probabilities": [
+        0.4742870330810547,
+        0.5257130265235901
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1070.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.698189914226532,
+      "probabilities": [
+        0.30181005597114563,
+        0.698189914226532
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1074.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9235374331474304,
+      "probabilities": [
+        0.07646257430315018,
+        0.9235374331474304
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1077.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9799545407295227,
+      "probabilities": [
+        0.020045524463057518,
+        0.9799545407295227
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1080.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9809535145759583,
+      "probabilities": [
+        0.01904655061662197,
+        0.9809535145759583
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1087.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8934804797172546,
+      "probabilities": [
+        0.10651948302984238,
+        0.8934804797172546
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1088.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8028848767280579,
+      "probabilities": [
+        0.8028848767280579,
+        0.19711504876613617
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1092.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9926669001579285,
+      "probabilities": [
+        0.007333098445087671,
+        0.9926669001579285
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\11.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.725067138671875,
+      "probabilities": [
+        0.2749329209327698,
+        0.725067138671875
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1110.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9325588345527649,
+      "probabilities": [
+        0.06744121760129929,
+        0.9325588345527649
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1112.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6015355587005615,
+      "probabilities": [
+        0.6015355587005615,
+        0.3984644412994385
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1115.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5741482973098755,
+      "probabilities": [
+        0.42585182189941406,
+        0.5741482973098755
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1118.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.981052041053772,
+      "probabilities": [
+        0.01894790679216385,
+        0.981052041053772
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1125.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5748818516731262,
+      "probabilities": [
+        0.5748818516731262,
+        0.42511820793151855
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1126.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7072343826293945,
+      "probabilities": [
+        0.29276561737060547,
+        0.7072343826293945
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1130.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9721150398254395,
+      "probabilities": [
+        0.027884963899850845,
+        0.9721150398254395
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1134.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7022334933280945,
+      "probabilities": [
+        0.29776644706726074,
+        0.7022334933280945
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1135.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9929717779159546,
+      "probabilities": [
+        0.007028193213045597,
+        0.9929717779159546
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1139.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9856241941452026,
+      "probabilities": [
+        0.014375770464539528,
+        0.9856241941452026
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1143.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9772301912307739,
+      "probabilities": [
+        0.022769808769226074,
+        0.9772301912307739
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1146.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9602224230766296,
+      "probabilities": [
+        0.03977755829691887,
+        0.9602224230766296
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1151.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9839162826538086,
+      "probabilities": [
+        0.016083747148513794,
+        0.9839162826538086
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1155.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9545077085494995,
+      "probabilities": [
+        0.0454922690987587,
+        0.9545077085494995
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1166.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8201808929443359,
+      "probabilities": [
+        0.17981913685798645,
+        0.8201808929443359
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1170.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9645679593086243,
+      "probabilities": [
+        0.03543200343847275,
+        0.9645679593086243
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1173.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7335087656974792,
+      "probabilities": [
+        0.26649120450019836,
+        0.7335087656974792
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1177.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.971450924873352,
+      "probabilities": [
+        0.028549110516905785,
+        0.971450924873352
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1180.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9475437998771667,
+      "probabilities": [
+        0.05245622247457504,
+        0.9475437998771667
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1183.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8404720425605774,
+      "probabilities": [
+        0.15952792763710022,
+        0.8404720425605774
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\119.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9269533157348633,
+      "probabilities": [
+        0.0730467289686203,
+        0.9269533157348633
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1191.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6794115304946899,
+      "probabilities": [
+        0.6794115304946899,
+        0.32058849930763245
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1200.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9908351898193359,
+      "probabilities": [
+        0.009164812043309212,
+        0.9908351898193359
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1203.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9768671989440918,
+      "probabilities": [
+        0.023132789880037308,
+        0.9768671989440918
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1208.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.635450005531311,
+      "probabilities": [
+        0.635450005531311,
+        0.36455002427101135
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1214.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9821040034294128,
+      "probabilities": [
+        0.01789606176316738,
+        0.9821040034294128
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1215.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9800350069999695,
+      "probabilities": [
+        0.019964993000030518,
+        0.9800350069999695
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\122.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9525690078735352,
+      "probabilities": [
+        0.04743093252182007,
+        0.9525690078735352
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1226.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9814400672912598,
+      "probabilities": [
+        0.018559953197836876,
+        0.9814400672912598
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1231.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8840802907943726,
+      "probabilities": [
+        0.11591975390911102,
+        0.8840802907943726
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1242.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9824498891830444,
+      "probabilities": [
+        0.01755010150372982,
+        0.9824498891830444
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1243.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9851032495498657,
+      "probabilities": [
+        0.014896735548973083,
+        0.9851032495498657
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1244.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6069190502166748,
+      "probabilities": [
+        0.3930809199810028,
+        0.6069190502166748
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1253.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9720155596733093,
+      "probabilities": [
+        0.027984503656625748,
+        0.9720155596733093
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1261.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9294077157974243,
+      "probabilities": [
+        0.07059232890605927,
+        0.9294077157974243
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1265.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5362145304679871,
+      "probabilities": [
+        0.46378546953201294,
+        0.5362145304679871
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1266.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6842184066772461,
+      "probabilities": [
+        0.3157815933227539,
+        0.6842184066772461
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1269.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.991124153137207,
+      "probabilities": [
+        0.008875800296664238,
+        0.991124153137207
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\127.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9897258877754211,
+      "probabilities": [
+        0.010274158790707588,
+        0.9897258877754211
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1273.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.990435004234314,
+      "probabilities": [
+        0.009564909152686596,
+        0.990435004234314
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1276.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9725832939147949,
+      "probabilities": [
+        0.02741670049726963,
+        0.9725832939147949
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1277.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9638788104057312,
+      "probabilities": [
+        0.0361211821436882,
+        0.9638788104057312
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1278.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9853998422622681,
+      "probabilities": [
+        0.014600187540054321,
+        0.9853998422622681
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1288.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.845659613609314,
+      "probabilities": [
+        0.15434037148952484,
+        0.845659613609314
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1290.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9916642308235168,
+      "probabilities": [
+        0.00833580456674099,
+        0.9916642308235168
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1297.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.915004551410675,
+      "probabilities": [
+        0.08499544858932495,
+        0.915004551410675
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1299.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9151161313056946,
+      "probabilities": [
+        0.08488394320011139,
+        0.9151161313056946
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1310.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9843463897705078,
+      "probabilities": [
+        0.015653567388653755,
+        0.9843463897705078
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1319.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9557381868362427,
+      "probabilities": [
+        0.04426184669137001,
+        0.9557381868362427
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1321.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9843512773513794,
+      "probabilities": [
+        0.015648692846298218,
+        0.9843512773513794
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1322.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9805827140808105,
+      "probabilities": [
+        0.019417308270931244,
+        0.9805827140808105
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1334.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9742885828018188,
+      "probabilities": [
+        0.02571139670908451,
+        0.9742885828018188
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1342.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6158466935157776,
+      "probabilities": [
+        0.6158466935157776,
+        0.3841533064842224
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1343.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9816285967826843,
+      "probabilities": [
+        0.018371405079960823,
+        0.9816285967826843
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1350.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9701202511787415,
+      "probabilities": [
+        0.029879653826355934,
+        0.9701202511787415
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1354.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.979745090007782,
+      "probabilities": [
+        0.020254915580153465,
+        0.979745090007782
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1357.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9935131072998047,
+      "probabilities": [
+        0.006486861500889063,
+        0.9935131072998047
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1359.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8826502561569214,
+      "probabilities": [
+        0.11734972149133682,
+        0.8826502561569214
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1362.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9858576059341431,
+      "probabilities": [
+        0.014142501167953014,
+        0.9858576059341431
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1365.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9891179800033569,
+      "probabilities": [
+        0.010882051661610603,
+        0.9891179800033569
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1367.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9840707778930664,
+      "probabilities": [
+        0.015929177403450012,
+        0.9840707778930664
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1373.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5712622404098511,
+      "probabilities": [
+        0.42873769998550415,
+        0.5712622404098511
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1376.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9856932759284973,
+      "probabilities": [
+        0.014306768774986267,
+        0.9856932759284973
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1377.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9542727470397949,
+      "probabilities": [
+        0.04572727903723717,
+        0.9542727470397949
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1378.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9830360412597656,
+      "probabilities": [
+        0.016963962465524673,
+        0.9830360412597656
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1381.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9925616383552551,
+      "probabilities": [
+        0.00743840029463172,
+        0.9925616383552551
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1393.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7561455368995667,
+      "probabilities": [
+        0.24385447800159454,
+        0.7561455368995667
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\140.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9796711802482605,
+      "probabilities": [
+        0.020328808575868607,
+        0.9796711802482605
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1400.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9944806098937988,
+      "probabilities": [
+        0.0055193728767335415,
+        0.9944806098937988
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1401.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5069952607154846,
+      "probabilities": [
+        0.5069952607154846,
+        0.493004709482193
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1409.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.825549304485321,
+      "probabilities": [
+        0.17445062100887299,
+        0.825549304485321
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1412.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8039332628250122,
+      "probabilities": [
+        0.19606676697731018,
+        0.8039332628250122
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1415.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9501724243164062,
+      "probabilities": [
+        0.04982747882604599,
+        0.9501724243164062
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\144.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9301623106002808,
+      "probabilities": [
+        0.06983768939971924,
+        0.9301623106002808
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1441.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9864100217819214,
+      "probabilities": [
+        0.01358996145427227,
+        0.9864100217819214
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1443.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8936508893966675,
+      "probabilities": [
+        0.10634902864694595,
+        0.8936508893966675
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1445.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9891122579574585,
+      "probabilities": [
+        0.01088774111121893,
+        0.9891122579574585
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1448.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9829365015029907,
+      "probabilities": [
+        0.017063532024621964,
+        0.9829365015029907
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1466.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.983542799949646,
+      "probabilities": [
+        0.01645715907216072,
+        0.983542799949646
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1468.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7691240310668945,
+      "probabilities": [
+        0.23087599873542786,
+        0.7691240310668945
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\147.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8498350977897644,
+      "probabilities": [
+        0.1501648724079132,
+        0.8498350977897644
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1471.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9773081541061401,
+      "probabilities": [
+        0.02269182726740837,
+        0.9773081541061401
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1473.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9541162252426147,
+      "probabilities": [
+        0.04588377848267555,
+        0.9541162252426147
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1479.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9314628839492798,
+      "probabilities": [
+        0.06853713095188141,
+        0.9314628839492798
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1481.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9205181002616882,
+      "probabilities": [
+        0.9205181002616882,
+        0.07948180288076401
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1483.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7991894483566284,
+      "probabilities": [
+        0.7991894483566284,
+        0.2008104771375656
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1485.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7072857022285461,
+      "probabilities": [
+        0.7072857022285461,
+        0.29271426796913147
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1488.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8158838152885437,
+      "probabilities": [
+        0.8158838152885437,
+        0.1841161996126175
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1492.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6738834381103516,
+      "probabilities": [
+        0.3261166214942932,
+        0.6738834381103516
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1499.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9772205352783203,
+      "probabilities": [
+        0.022779522463679314,
+        0.9772205352783203
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\15.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9900020360946655,
+      "probabilities": [
+        0.009997907094657421,
+        0.9900020360946655
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1502.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9909130930900574,
+      "probabilities": [
+        0.009086871519684792,
+        0.9909130930900574
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1514.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8159258961677551,
+      "probabilities": [
+        0.18407413363456726,
+        0.8159258961677551
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1516.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9755313992500305,
+      "probabilities": [
+        0.024468645453453064,
+        0.9755313992500305
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1519.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9835623502731323,
+      "probabilities": [
+        0.016437584534287453,
+        0.9835623502731323
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1521.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7306002974510193,
+      "probabilities": [
+        0.2693997025489807,
+        0.7306002974510193
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1530.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9865306615829468,
+      "probabilities": [
+        0.013469253666698933,
+        0.9865306615829468
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1537.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8632186651229858,
+      "probabilities": [
+        0.136781245470047,
+        0.8632186651229858
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1538.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9939109683036804,
+      "probabilities": [
+        0.00608906801789999,
+        0.9939109683036804
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\154.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9841626286506653,
+      "probabilities": [
+        0.01583731733262539,
+        0.9841626286506653
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1545.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9787014126777649,
+      "probabilities": [
+        0.021298516541719437,
+        0.9787014126777649
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1559.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9834609031677246,
+      "probabilities": [
+        0.01653907634317875,
+        0.9834609031677246
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1576.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8494199514389038,
+      "probabilities": [
+        0.15058007836341858,
+        0.8494199514389038
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1578.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8048208951950073,
+      "probabilities": [
+        0.8048208951950073,
+        0.19517908990383148
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1579.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9547379612922668,
+      "probabilities": [
+        0.04526202753186226,
+        0.9547379612922668
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1592.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6578320264816284,
+      "probabilities": [
+        0.34216800332069397,
+        0.6578320264816284
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\16.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9927414059638977,
+      "probabilities": [
+        0.0072585465386509895,
+        0.9927414059638977
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1602.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6236400604248047,
+      "probabilities": [
+        0.6236400604248047,
+        0.3763599097728729
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1607.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9851023554801941,
+      "probabilities": [
+        0.014897641725838184,
+        0.9851023554801941
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\161.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.625874400138855,
+      "probabilities": [
+        0.625874400138855,
+        0.3741256594657898
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1610.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.980543315410614,
+      "probabilities": [
+        0.019456615671515465,
+        0.980543315410614
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1611.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9531542062759399,
+      "probabilities": [
+        0.046845827251672745,
+        0.9531542062759399
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1628.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9819488525390625,
+      "probabilities": [
+        0.018051132559776306,
+        0.9819488525390625
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1632.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9893029928207397,
+      "probabilities": [
+        0.010696977376937866,
+        0.9893029928207397
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1634.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.9153732061386108,
+      "probabilities": [
+        0.9153732061386108,
+        0.08462674915790558
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1637.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9872696995735168,
+      "probabilities": [
+        0.012730255722999573,
+        0.9872696995735168
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1642.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9068277478218079,
+      "probabilities": [
+        0.09317229688167572,
+        0.9068277478218079
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1646.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7802466154098511,
+      "probabilities": [
+        0.21975331008434296,
+        0.7802466154098511
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1648.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8876627087593079,
+      "probabilities": [
+        0.11233725398778915,
+        0.8876627087593079
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1655.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9661146998405457,
+      "probabilities": [
+        0.03388534486293793,
+        0.9661146998405457
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1657.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9816449880599976,
+      "probabilities": [
+        0.018355032429099083,
+        0.9816449880599976
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1672.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9868093729019165,
+      "probabilities": [
+        0.013190599158406258,
+        0.9868093729019165
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1682.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.958260715007782,
+      "probabilities": [
+        0.04173930734395981,
+        0.958260715007782
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1687.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9101566076278687,
+      "probabilities": [
+        0.08984335511922836,
+        0.9101566076278687
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1696.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9782401323318481,
+      "probabilities": [
+        0.02175990492105484,
+        0.9782401323318481
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1701.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7060028910636902,
+      "probabilities": [
+        0.7060028910636902,
+        0.2939970791339874
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1704.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9738069772720337,
+      "probabilities": [
+        0.02619306370615959,
+        0.9738069772720337
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1710.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6054539084434509,
+      "probabilities": [
+        0.3945460915565491,
+        0.6054539084434509
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1711.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7628536820411682,
+      "probabilities": [
+        0.7628536820411682,
+        0.23714634776115417
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1714.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9796432256698608,
+      "probabilities": [
+        0.020356740802526474,
+        0.9796432256698608
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1719.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.987354576587677,
+      "probabilities": [
+        0.012645420618355274,
+        0.987354576587677
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1721.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.755540668964386,
+      "probabilities": [
+        0.2444593459367752,
+        0.755540668964386
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1731.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9067662954330444,
+      "probabilities": [
+        0.09323368966579437,
+        0.9067662954330444
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1737.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9658181071281433,
+      "probabilities": [
+        0.03418191149830818,
+        0.9658181071281433
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1745.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8855901956558228,
+      "probabilities": [
+        0.11440982669591904,
+        0.8855901956558228
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1747.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9852852821350098,
+      "probabilities": [
+        0.014714728109538555,
+        0.9852852821350098
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1748.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9834307432174683,
+      "probabilities": [
+        0.01656927727162838,
+        0.9834307432174683
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1756.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8913334608078003,
+      "probabilities": [
+        0.10866653919219971,
+        0.8913334608078003
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1757.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6128007173538208,
+      "probabilities": [
+        0.6128007173538208,
+        0.3871993124485016
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1758.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9897448420524597,
+      "probabilities": [
+        0.01025514118373394,
+        0.9897448420524597
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1764.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.917082667350769,
+      "probabilities": [
+        0.08291728794574738,
+        0.917082667350769
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1768.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.986639142036438,
+      "probabilities": [
+        0.0133608877658844,
+        0.986639142036438
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1773.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9900556802749634,
+      "probabilities": [
+        0.009944260120391846,
+        0.9900556802749634
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1797.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9904470443725586,
+      "probabilities": [
+        0.009553041309118271,
+        0.9904470443725586
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1798.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.945594310760498,
+      "probabilities": [
+        0.05440572649240494,
+        0.945594310760498
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\18.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9854189157485962,
+      "probabilities": [
+        0.014581103809177876,
+        0.9854189157485962
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\1800.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.97401362657547,
+      "probabilities": [
+        0.02598634921014309,
+        0.97401362657547
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\185.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9495967030525208,
+      "probabilities": [
+        0.05040328949689865,
+        0.9495967030525208
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\186.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9718070030212402,
+      "probabilities": [
+        0.028192996978759766,
+        0.9718070030212402
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\2.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9318512082099915,
+      "probabilities": [
+        0.06814876198768616,
+        0.9318512082099915
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\205.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.987235426902771,
+      "probabilities": [
+        0.012764560990035534,
+        0.987235426902771
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\211.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9837430715560913,
+      "probabilities": [
+        0.016256868839263916,
+        0.9837430715560913
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\215.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9809242486953735,
+      "probabilities": [
+        0.019075725227594376,
+        0.9809242486953735
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\216.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9810689687728882,
+      "probabilities": [
+        0.018931027501821518,
+        0.9810689687728882
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\224.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5959905385971069,
+      "probabilities": [
+        0.4040094316005707,
+        0.5959905385971069
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\226.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9905416369438171,
+      "probabilities": [
+        0.009458368644118309,
+        0.9905416369438171
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\237.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8537174463272095,
+      "probabilities": [
+        0.14628258347511292,
+        0.8537174463272095
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\245.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5059932470321655,
+      "probabilities": [
+        0.4940066933631897,
+        0.5059932470321655
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\250.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9932462573051453,
+      "probabilities": [
+        0.006753794848918915,
+        0.9932462573051453
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\251.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9910379648208618,
+      "probabilities": [
+        0.008962016552686691,
+        0.9910379648208618
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\253.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8809139132499695,
+      "probabilities": [
+        0.1190861240029335,
+        0.8809139132499695
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\256.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9762008786201477,
+      "probabilities": [
+        0.02379913255572319,
+        0.9762008786201477
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\259.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9748830795288086,
+      "probabilities": [
+        0.02511691488325596,
+        0.9748830795288086
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\267.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8960558772087097,
+      "probabilities": [
+        0.10394404083490372,
+        0.8960558772087097
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\268.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6574512720108032,
+      "probabilities": [
+        0.3425487279891968,
+        0.6574512720108032
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\273.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5217469930648804,
+      "probabilities": [
+        0.5217469930648804,
+        0.47825297713279724
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\284.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9933298230171204,
+      "probabilities": [
+        0.0066701374016702175,
+        0.9933298230171204
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\287.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9335969686508179,
+      "probabilities": [
+        0.06640306860208511,
+        0.9335969686508179
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\289.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9855201840400696,
+      "probabilities": [
+        0.01447983831167221,
+        0.9855201840400696
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\291.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.707102358341217,
+      "probabilities": [
+        0.29289770126342773,
+        0.707102358341217
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\300.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9036579132080078,
+      "probabilities": [
+        0.09634210169315338,
+        0.9036579132080078
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\303.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9576889276504517,
+      "probabilities": [
+        0.04231107980012894,
+        0.9576889276504517
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\304.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7952805757522583,
+      "probabilities": [
+        0.20471946895122528,
+        0.7952805757522583
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\31.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6522552371025085,
+      "probabilities": [
+        0.6522552371025085,
+        0.3477447032928467
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\311.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9265645146369934,
+      "probabilities": [
+        0.07343549281358719,
+        0.9265645146369934
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\313.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9807637929916382,
+      "probabilities": [
+        0.019236186519265175,
+        0.9807637929916382
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\317.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9842168688774109,
+      "probabilities": [
+        0.01578306034207344,
+        0.9842168688774109
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\322.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8375323414802551,
+      "probabilities": [
+        0.8375323414802551,
+        0.16246767342090607
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\323.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9721061587333679,
+      "probabilities": [
+        0.027893800288438797,
+        0.9721061587333679
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\330.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9871017336845398,
+      "probabilities": [
+        0.012898249551653862,
+        0.9871017336845398
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\332.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9859782457351685,
+      "probabilities": [
+        0.01402178406715393,
+        0.9859782457351685
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\335.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8022041320800781,
+      "probabilities": [
+        0.19779585301876068,
+        0.8022041320800781
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\344.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6982003450393677,
+      "probabilities": [
+        0.3017996847629547,
+        0.6982003450393677
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\348.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7886300683021545,
+      "probabilities": [
+        0.21136994659900665,
+        0.7886300683021545
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\354.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8716748952865601,
+      "probabilities": [
+        0.12832503020763397,
+        0.8716748952865601
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\356.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.990249514579773,
+      "probabilities": [
+        0.009750427678227425,
+        0.990249514579773
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\367.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9648246765136719,
+      "probabilities": [
+        0.035175371915102005,
+        0.9648246765136719
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\369.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9906119108200073,
+      "probabilities": [
+        0.009388096630573273,
+        0.9906119108200073
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\37.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5271204710006714,
+      "probabilities": [
+        0.4728794991970062,
+        0.5271204710006714
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\378.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9882450103759766,
+      "probabilities": [
+        0.01175497192889452,
+        0.9882450103759766
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\379.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9850770831108093,
+      "probabilities": [
+        0.014922937378287315,
+        0.9850770831108093
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\385.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9836727976799011,
+      "probabilities": [
+        0.016327232122421265,
+        0.9836727976799011
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\388.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9909723401069641,
+      "probabilities": [
+        0.009027602151036263,
+        0.9909723401069641
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\389.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9841110110282898,
+      "probabilities": [
+        0.015889020636677742,
+        0.9841110110282898
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\394.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7908127307891846,
+      "probabilities": [
+        0.20918726921081543,
+        0.7908127307891846
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\404.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9759424328804016,
+      "probabilities": [
+        0.024057522416114807,
+        0.9759424328804016
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\407.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9418329000473022,
+      "probabilities": [
+        0.05816709250211716,
+        0.9418329000473022
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\414.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.96357661485672,
+      "probabilities": [
+        0.03642335534095764,
+        0.96357661485672
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\419.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9780071377754211,
+      "probabilities": [
+        0.02199292741715908,
+        0.9780071377754211
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\427.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9806613922119141,
+      "probabilities": [
+        0.019338663667440414,
+        0.9806613922119141
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\428.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9919694066047668,
+      "probabilities": [
+        0.008030593395233154,
+        0.9919694066047668
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\433.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.7688497304916382,
+      "probabilities": [
+        0.7688497304916382,
+        0.23115022480487823
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\436.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6550000905990601,
+      "probabilities": [
+        0.34499993920326233,
+        0.6550000905990601
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\437.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9650510549545288,
+      "probabilities": [
+        0.03494895249605179,
+        0.9650510549545288
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\44.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9875315427780151,
+      "probabilities": [
+        0.01246844045817852,
+        0.9875315427780151
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\444.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.968845546245575,
+      "probabilities": [
+        0.031154438853263855,
+        0.968845546245575
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\449.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8305805921554565,
+      "probabilities": [
+        0.1694193333387375,
+        0.8305805921554565
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\45.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9472230076789856,
+      "probabilities": [
+        0.05277702957391739,
+        0.9472230076789856
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\454.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9903700947761536,
+      "probabilities": [
+        0.009629888460040092,
+        0.9903700947761536
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\457.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.994315505027771,
+      "probabilities": [
+        0.005684419069439173,
+        0.994315505027771
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\462.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.968042254447937,
+      "probabilities": [
+        0.031957726925611496,
+        0.968042254447937
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\475.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.935710608959198,
+      "probabilities": [
+        0.06428942084312439,
+        0.935710608959198
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\479.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9864463806152344,
+      "probabilities": [
+        0.013553661294281483,
+        0.9864463806152344
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\484.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6528647541999817,
+      "probabilities": [
+        0.3471352458000183,
+        0.6528647541999817
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\495.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9415205717086792,
+      "probabilities": [
+        0.05847937613725662,
+        0.9415205717086792
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\5.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8416557312011719,
+      "probabilities": [
+        0.15834422409534454,
+        0.8416557312011719
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\520.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9895698428153992,
+      "probabilities": [
+        0.010430142283439636,
+        0.9895698428153992
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\527.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9752926826477051,
+      "probabilities": [
+        0.024707356467843056,
+        0.9752926826477051
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\532.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9425759315490723,
+      "probabilities": [
+        0.05742407962679863,
+        0.9425759315490723
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\535.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9767506718635559,
+      "probabilities": [
+        0.02324933186173439,
+        0.9767506718635559
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\536.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9700851440429688,
+      "probabilities": [
+        0.029914867132902145,
+        0.9700851440429688
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\54.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9917928576469421,
+      "probabilities": [
+        0.008207055740058422,
+        0.9917928576469421
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\545.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9625257253646851,
+      "probabilities": [
+        0.037474267184734344,
+        0.9625257253646851
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\548.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5676848888397217,
+      "probabilities": [
+        0.5676848888397217,
+        0.4323151707649231
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\552.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9837188720703125,
+      "probabilities": [
+        0.016281191259622574,
+        0.9837188720703125
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\558.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9929916262626648,
+      "probabilities": [
+        0.007008255459368229,
+        0.9929916262626648
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\559.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.553510308265686,
+      "probabilities": [
+        0.4464896321296692,
+        0.553510308265686
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\560.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9865466356277466,
+      "probabilities": [
+        0.013453386723995209,
+        0.9865466356277466
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\561.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9731343984603882,
+      "probabilities": [
+        0.02686562016606331,
+        0.9731343984603882
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\562.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9781263470649719,
+      "probabilities": [
+        0.021873649209737778,
+        0.9781263470649719
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\566.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.8004776239395142,
+      "probabilities": [
+        0.8004776239395142,
+        0.19952237606048584
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\57.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9793688654899597,
+      "probabilities": [
+        0.020631160587072372,
+        0.9793688654899597
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\572.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9867528080940247,
+      "probabilities": [
+        0.013247226364910603,
+        0.9867528080940247
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\573.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8916887044906616,
+      "probabilities": [
+        0.10831129550933838,
+        0.8916887044906616
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\574.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.978367805480957,
+      "probabilities": [
+        0.021632177755236626,
+        0.978367805480957
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\575.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7899855971336365,
+      "probabilities": [
+        0.21001438796520233,
+        0.7899855971336365
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\580.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9261084794998169,
+      "probabilities": [
+        0.07389158755540848,
+        0.9261084794998169
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\588.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9938427805900574,
+      "probabilities": [
+        0.006157201714813709,
+        0.9938427805900574
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\596.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9780811071395874,
+      "probabilities": [
+        0.02191891148686409,
+        0.9780811071395874
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\603.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9907503128051758,
+      "probabilities": [
+        0.009249634109437466,
+        0.9907503128051758
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\61.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9792092442512512,
+      "probabilities": [
+        0.020790787413716316,
+        0.9792092442512512
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\612.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9835056066513062,
+      "probabilities": [
+        0.016494357958436012,
+        0.9835056066513062
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\623.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7526804208755493,
+      "probabilities": [
+        0.24731962382793427,
+        0.7526804208755493
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\624.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9919301867485046,
+      "probabilities": [
+        0.008069814182817936,
+        0.9919301867485046
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\626.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8774137496948242,
+      "probabilities": [
+        0.12258627265691757,
+        0.8774137496948242
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\63.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9689058065414429,
+      "probabilities": [
+        0.03109419345855713,
+        0.9689058065414429
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\631.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9909664988517761,
+      "probabilities": [
+        0.009033450856804848,
+        0.9909664988517761
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\634.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.5355770587921143,
+      "probabilities": [
+        0.5355770587921143,
+        0.4644230008125305
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\635.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9898368716239929,
+      "probabilities": [
+        0.010163086466491222,
+        0.9898368716239929
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\636.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7580030560493469,
+      "probabilities": [
+        0.24199695885181427,
+        0.7580030560493469
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\642.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9866378903388977,
+      "probabilities": [
+        0.013362115249037743,
+        0.9866378903388977
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\644.jpg",
+      "predicted_class": "0",
+      "class_name": "kanserli",
+      "confidence": 0.6364723443984985,
+      "probabilities": [
+        0.6364723443984985,
+        0.36352765560150146
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\647.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8121193051338196,
+      "probabilities": [
+        0.18788066506385803,
+        0.8121193051338196
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\658.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9758304357528687,
+      "probabilities": [
+        0.02416956052184105,
+        0.9758304357528687
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\659.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9927037954330444,
+      "probabilities": [
+        0.00729621946811676,
+        0.9927037954330444
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\660.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.542007327079773,
+      "probabilities": [
+        0.45799264311790466,
+        0.542007327079773
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\663.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8847827911376953,
+      "probabilities": [
+        0.1152171641588211,
+        0.8847827911376953
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\664.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9771987795829773,
+      "probabilities": [
+        0.02280118688941002,
+        0.9771987795829773
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\668.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8221437335014343,
+      "probabilities": [
+        0.17785626649856567,
+        0.8221437335014343
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\670.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.5896891355514526,
+      "probabilities": [
+        0.410310834646225,
+        0.5896891355514526
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\676.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6320434808731079,
+      "probabilities": [
+        0.36795657873153687,
+        0.6320434808731079
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\678.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9266164898872375,
+      "probabilities": [
+        0.07338353246450424,
+        0.9266164898872375
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\681.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9419823884963989,
+      "probabilities": [
+        0.058017708361148834,
+        0.9419823884963989
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\689.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9796865582466125,
+      "probabilities": [
+        0.020313475281000137,
+        0.9796865582466125
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\690.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.988640308380127,
+      "probabilities": [
+        0.01135969627648592,
+        0.988640308380127
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\700.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.982247531414032,
+      "probabilities": [
+        0.017752422019839287,
+        0.982247531414032
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\71.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9006732106208801,
+      "probabilities": [
+        0.09932681918144226,
+        0.9006732106208801
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\712.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9862152338027954,
+      "probabilities": [
+        0.013784837909042835,
+        0.9862152338027954
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\717.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8440682291984558,
+      "probabilities": [
+        0.1559317708015442,
+        0.8440682291984558
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\720.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.994825005531311,
+      "probabilities": [
+        0.005174974910914898,
+        0.994825005531311
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\721.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9850829839706421,
+      "probabilities": [
+        0.01491700392216444,
+        0.9850829839706421
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\724.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9533254504203796,
+      "probabilities": [
+        0.046674489974975586,
+        0.9533254504203796
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\725.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9820736050605774,
+      "probabilities": [
+        0.01792646385729313,
+        0.9820736050605774
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\74.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9645637273788452,
+      "probabilities": [
+        0.0354362316429615,
+        0.9645637273788452
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\751.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9908667802810669,
+      "probabilities": [
+        0.00913325510919094,
+        0.9908667802810669
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\758.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9835041165351868,
+      "probabilities": [
+        0.016495874151587486,
+        0.9835041165351868
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\762.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9913231134414673,
+      "probabilities": [
+        0.008676937781274319,
+        0.9913231134414673
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\763.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9950893521308899,
+      "probabilities": [
+        0.0049107372760772705,
+        0.9950893521308899
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\768.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9785529375076294,
+      "probabilities": [
+        0.021447069942951202,
+        0.9785529375076294
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\770.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6491106152534485,
+      "probabilities": [
+        0.3508893847465515,
+        0.6491106152534485
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\773.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8861458897590637,
+      "probabilities": [
+        0.1138540729880333,
+        0.8861458897590637
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\774.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9826129674911499,
+      "probabilities": [
+        0.01738700643181801,
+        0.9826129674911499
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\778.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8615185022354126,
+      "probabilities": [
+        0.13848143815994263,
+        0.8615185022354126
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\790.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9744306802749634,
+      "probabilities": [
+        0.025569364428520203,
+        0.9744306802749634
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\8.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9746381640434265,
+      "probabilities": [
+        0.025361772626638412,
+        0.9746381640434265
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\802.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8847728967666626,
+      "probabilities": [
+        0.1152271255850792,
+        0.8847728967666626
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\805.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9934394955635071,
+      "probabilities": [
+        0.006560544017702341,
+        0.9934394955635071
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\806.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9505346417427063,
+      "probabilities": [
+        0.0494653657078743,
+        0.9505346417427063
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\813.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.834196925163269,
+      "probabilities": [
+        0.16580304503440857,
+        0.834196925163269
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\819.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8944000005722046,
+      "probabilities": [
+        0.10559999942779541,
+        0.8944000005722046
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\820.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9813218116760254,
+      "probabilities": [
+        0.018678199499845505,
+        0.9813218116760254
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\823.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8808578252792358,
+      "probabilities": [
+        0.11914213001728058,
+        0.8808578252792358
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\824.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7651877403259277,
+      "probabilities": [
+        0.23481222987174988,
+        0.7651877403259277
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\825.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9879209399223328,
+      "probabilities": [
+        0.012079020962119102,
+        0.9879209399223328
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\826.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9912863969802856,
+      "probabilities": [
+        0.00871363002806902,
+        0.9912863969802856
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\828.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9903661608695984,
+      "probabilities": [
+        0.009633841924369335,
+        0.9903661608695984
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\83.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9873844981193542,
+      "probabilities": [
+        0.012615462765097618,
+        0.9873844981193542
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\830.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9862926602363586,
+      "probabilities": [
+        0.013707379810512066,
+        0.9862926602363586
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\84.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9613800048828125,
+      "probabilities": [
+        0.03861995041370392,
+        0.9613800048828125
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\840.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9936987161636353,
+      "probabilities": [
+        0.006301249377429485,
+        0.9936987161636353
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\854.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9923561811447144,
+      "probabilities": [
+        0.007643760647624731,
+        0.9923561811447144
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\869.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9537447094917297,
+      "probabilities": [
+        0.046255264431238174,
+        0.9537447094917297
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\874.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9911168217658997,
+      "probabilities": [
+        0.008883196860551834,
+        0.9911168217658997
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\878.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8599675893783569,
+      "probabilities": [
+        0.1400323361158371,
+        0.8599675893783569
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\88.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9505614042282104,
+      "probabilities": [
+        0.04943862929940224,
+        0.9505614042282104
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\880.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8677278757095337,
+      "probabilities": [
+        0.13227221369743347,
+        0.8677278757095337
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\887.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9801936149597168,
+      "probabilities": [
+        0.019806331023573875,
+        0.9801936149597168
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\888.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9620624780654907,
+      "probabilities": [
+        0.03793754428625107,
+        0.9620624780654907
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\892.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7264966368675232,
+      "probabilities": [
+        0.27350330352783203,
+        0.7264966368675232
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\893.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9885305166244507,
+      "probabilities": [
+        0.0114694032818079,
+        0.9885305166244507
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\894.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.849750816822052,
+      "probabilities": [
+        0.1502491980791092,
+        0.849750816822052
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\895.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9831575155258179,
+      "probabilities": [
+        0.016842467710375786,
+        0.9831575155258179
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\9.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.938121497631073,
+      "probabilities": [
+        0.06187845394015312,
+        0.938121497631073
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\90.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9869186282157898,
+      "probabilities": [
+        0.013081328943371773,
+        0.9869186282157898
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\903.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.7856771349906921,
+      "probabilities": [
+        0.21432289481163025,
+        0.7856771349906921
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\906.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.528545618057251,
+      "probabilities": [
+        0.47145432233810425,
+        0.528545618057251
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\909.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8033380508422852,
+      "probabilities": [
+        0.19666194915771484,
+        0.8033380508422852
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\912.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8676841855049133,
+      "probabilities": [
+        0.13231581449508667,
+        0.8676841855049133
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\916.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8276886940002441,
+      "probabilities": [
+        0.17231127619743347,
+        0.8276886940002441
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\919.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8535109758377075,
+      "probabilities": [
+        0.14648905396461487,
+        0.8535109758377075
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\925.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8533229827880859,
+      "probabilities": [
+        0.14667704701423645,
+        0.8533229827880859
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\936.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.979194164276123,
+      "probabilities": [
+        0.02080581523478031,
+        0.979194164276123
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\943.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9943917989730835,
+      "probabilities": [
+        0.005608147010207176,
+        0.9943917989730835
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\944.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9685195684432983,
+      "probabilities": [
+        0.031480468809604645,
+        0.9685195684432983
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\946.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9730191230773926,
+      "probabilities": [
+        0.026980826631188393,
+        0.9730191230773926
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\95.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.989294171333313,
+      "probabilities": [
+        0.010705889202654362,
+        0.989294171333313
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\958.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.6197763681411743,
+      "probabilities": [
+        0.38022366166114807,
+        0.6197763681411743
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\962.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9916488528251648,
+      "probabilities": [
+        0.0083511583507061,
+        0.9916488528251648
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\964.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9371052980422974,
+      "probabilities": [
+        0.06289472430944443,
+        0.9371052980422974
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\97.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9700384140014648,
+      "probabilities": [
+        0.029961630702018738,
+        0.9700384140014648
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\972.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9801613092422485,
+      "probabilities": [
+        0.01983865350484848,
+        0.9801613092422485
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\98.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8781912922859192,
+      "probabilities": [
+        0.12180875241756439,
+        0.8781912922859192
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\982.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.8394716382026672,
+      "probabilities": [
+        0.16052831709384918,
+        0.8394716382026672
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\993.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9696666598320007,
+      "probabilities": [
+        0.030333299189805984,
+        0.9696666598320007
+      ],
+      "high_confidence": "True"
+    },
+    {
+      "image_path": "E:\\Test\\kansersiz\\998.jpg",
+      "predicted_class": "1",
+      "class_name": "kansersiz",
+      "confidence": 0.9820594787597656,
+      "probabilities": [
+        0.017940538004040718,
+        0.9820594787597656
+      ],
+      "high_confidence": "True"
+    }
+  ],
+  "metrics": {
+    "accuracy": 0.9181818181818182,
+    "precision": 0.9182426955559516,
+    "recall": 0.9181818181818182,
+    "f1_score": 0.9182037758833769,
+    "classification_report": "              precision    recall  f1-score   support\n\n    kanserli     0.9073    0.9133    0.9103       300\n   kansersiz     0.9274    0.9222    0.9248       360\n\n    accuracy                         0.9182       660\n   macro avg     0.9173    0.9178    0.9175       660\nweighted avg     0.9182    0.9182    0.9182       660\n"
+  },
+  "summary": {
+    "total_images": 660,
+    "class_distribution": {
+      "kanserli": 302,
+      "kansersiz": 358
+    }
+  }
+}

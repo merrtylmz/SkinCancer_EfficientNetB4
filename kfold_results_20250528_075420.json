@@ -1,0 +1,30 @@
+{
+  "fold_accuracies": [
+    0.9185606060606061,
+    0.9204545454545454,
+    0.9222011385199241,
+    0.888045540796964,
+    0.9297912713472486
+  ],
+  "mean_accuracy": 0.9158106204358576,
+  "std_accuracy": 0.014396703991946097,
+  "config": {
+    "data_dir": "E:/temiz_kanser_verileri",
+    "batch_size": 16,
+    "num_epochs": 20,
+    "learning_rate": 0.001,
+    "num_workers": 4,
+    "patience": 3,
+    "k_folds": 5,
+    "image_size": 380,
+    "device": "cuda",
+    "class_names": [
+      "kanserli",
+      "kansersiz"
+    ],
+    "use_kfold": true,
+    "focal_loss_alpha": 1,
+    "focal_loss_gamma": 2,
+    "label_smoothing": 0.1
+  }
+}
