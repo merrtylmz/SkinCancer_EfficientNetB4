@@ -3,6 +3,7 @@
 
 
 Proje Amacı
+
 Bu proje, cilt lezyonlarının otomatik sınıflandırılması üzerine odaklanmıştır. Amaç, derin öğrenme ve görüntü işleme tekniklerini kullanarak, deri kanseri ve diğer cilt hastalıklarının erken teşhisini destekleyecek yüksek doğrulukta modeller geliştirmektir. Böylece hem tıbbi uzmanların iş yükü azaltılır hem de hastaların erken müdahale şansı artırılır.
 
 Kullanılan Veri Setleri
