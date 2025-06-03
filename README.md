@@ -1,5 +1,6 @@
 # SkinCancer_EfficientNetB4
 "AI-powered skin cancer diagnosis system built with EfficientNet-B4 architecture. Trained on ISIC Archive and HAM10000 datasets, the model classifies melanoma and other skin lesions using deep learning (PyTorch) and advanced image processing techniques. 
+
 Proje Amacı
 Bu proje, cilt lezyonlarının otomatik sınıflandırılması üzerine odaklanmıştır. Amaç, derin öğrenme ve görüntü işleme tekniklerini kullanarak, deri kanseri ve diğer cilt hastalıklarının erken teşhisini destekleyecek yüksek doğrulukta modeller geliştirmektir. Böylece hem tıbbi uzmanların iş yükü azaltılır hem de hastaların erken müdahale şansı artırılır.
 
